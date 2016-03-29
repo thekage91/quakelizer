@@ -1,5 +1,5 @@
 # Quakelizer
-Real-time Eathquake Visualizer build with RxJS and a good amount of reactive programming!
+Real-time Eathquake Visualizer build with RxJS and a good amount of Reactive Programming!
 
 
 ## API
