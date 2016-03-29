@@ -1,5 +1,6 @@
 # Quakelizer
-Real-time Eathquake Visualizer build with RxJS
+Real-time Eathquake Visualizer build with RxJS and a good amount of reactive programming!
+
 
 ## API
 * Leafletjs (http://leafletjs.com/), a Javascript library, to render interactive maps
