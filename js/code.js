@@ -1,16 +1,15 @@
 
 var quakes = Rx.Observable.create(function(observer){
-	console.log(quakes)
 	window.eqfeed_callback = function(response){
+		console.log("prova")
 		var quakes = response.features;
-		
-		onsole.log(quakes.length)
+
 		quakes.forEach(function(quake){
 			observer.onNext(quake);
-		})
+		});
 	};
 
-	loadJSONP(QUAKE_URL);
+	loadJSONP(QUAKE_URL);	
 });
 
 quakes.subscribe(function(quake){
