@@ -1,7 +1,7 @@
 # Quakelizer
 Real-time Eathquake Visualizer build with RxJS and a good amount of Reactive Programming!
 
-## User Library 
+## Used Library 
 * Leafletjs (http://leafletjs.com/), a Javascript library, to render interactive maps
 * Rx.DOM (https://github.com/Reactive-Extensions/RxJS-DOM) for handle jsonp request with operator jsonpRequest
 
