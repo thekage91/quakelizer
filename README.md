@@ -1,5 +1,6 @@
 # Quakelizer
 Real-time Eathquake Visualizer build with RxJS and a good amount of Reactive Programming!
+
 For this project i will get data from weekly earthquakes dataset in JSONP format and draw circle to mark earthquakes.
 
 ## Used Library 
