@@ -9,3 +9,5 @@ For this project i will get data from weekly earthquakes dataset in JSONP format
 ## Used API
 * USGS (http://earthquake.usgs.gov/) eathquakes database, wich offers a real-time earthquake dataset in several formats. 
 
+## Demo
+http://thekage91.github.io/quakelizer/
